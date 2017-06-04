@@ -1,0 +1,221 @@
+html,
+body {
+  height: 100%;
+  font-family: sans-serif, "roboto";
+}
+
+/* */
+
+
+.navbar {
+  margin-bottom:0px;
+  background-color: #ffffff !important;
+
+}
+
+#brand-image {
+  height: 35px;
+  position: relative;
+  bottom: 7px;
+
+}
+
+.activeLink {
+    color: #FF5C5E !important;
+}
+
+a {
+  color: #000000 !important;
+}
+
+a:hover {
+  color: #FF5C5E !important;
+}
+
+
+#cover {
+  /*background: #222 url("img/sunset.jpg") top center no-repeat;*/
+  background-size: cover;
+  color: white;
+  height: 50%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#cover-caption {
+  width: 100%;
+
+}
+
+.containerFruit {
+  height:auto;
+  width: 100%;
+  background-color: #FD6B54;
+}
+
+.containerYellow {
+  height:auto;
+  width: 100%;
+  background-color: #EDEEEF;
+
+  /*background-color: #593C8F; #F6F6F6 #E0E0E0; */
+}
+
+.containerWhite {
+  height:auto;
+  width: 100%;
+  background-color: #FAFAF7;
+}
+
+.containerBlue {
+  height:auto;
+  width: 100%;
+  background-color: #35A1DA;
+}
+
+.margin {
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+.header {
+margin-top: 25%;
+color: #FD6B54;
+}
+
+#aboutHeader {
+  margin-top: 30%;
+  color: #FD6B54;
+}
+
+.lead {
+  color: #FD6B54;
+  font-size: 1.3em;
+  font-weight:400;
+  margin-top: 2%;;
+  margin-bottom: 25%;
+}
+
+.center {
+  text-align: center;
+}
+
+.title {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  color: #ffffff;
+}
+
+.readyTitle {
+  margin-top: 60px;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+.fruitTitle {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  color: #FD6B54;
+}
+
+.glyphicon {
+    font-size: 50px;
+    margin-bottom: 25px;
+    color: #ffffff;
+}
+
+.fruitGlyphicon {
+    font-size: 50px;
+    margin-bottom: 25px;
+    color: #FF5C5E;
+}
+
+h4 {
+  color: #fff;
+}
+
+#aboutSubhead {
+  color: #FD6B54;
+  font-size: 1.3em;
+  font-weight:400;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+#aboutBody {
+  color: #FD6B54;
+  margin-top: 15px;
+}
+
+.black {
+  color: #484E51;
+}
+
+p {
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-bottom: 25%;
+  color: #FFFFFF;
+}
+
+.iconsResize {
+  width: 33%;
+  height: 33%;
+  margin: auto;
+}
+
+.icons {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+
+#uber {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 3%;
+}
+
+#fb {
+  width: 100%;
+  height: 100%;
+}
+
+
+.form {
+  width: 300px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#pull-right {
+    float: right;
+    margin-bottom: 15%;
+}
+
+.email {
+  color: #ffffff !important;
+  margin-top: 10%;
+}
+
+.emailForm {
+  color: #ffffff;
+}
+
+.footerClass {
+  width: 100%;
+  background-color: #162128;
+}
+
+.footerText {
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-bottom: 25px;
+  color: #ffffff;
+}
+
+#credit {
+  color: #000;
+}
